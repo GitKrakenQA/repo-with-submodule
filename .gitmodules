@@ -1,3 +1,6 @@
 [submodule "demo-3-1"]
 	path = demo-3-1
 	url = https://github.com/GitKrakenQA/demo-3-1
+[submodule "sample-submodule"]
+	path = sample-submodule
+	url = https://github.com/GitKrakenQA/sample-submodule
