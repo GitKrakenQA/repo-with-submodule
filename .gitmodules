@@ -1,6 +1,6 @@
 [submodule "sample-submodule"]
 	path = sample-submodule
-	url = https://github.com/GitKrakenQA/sample-submodule
+	url = ../sample-submodule
 [submodule "100-tags-repo"]
 	path = 100-tags-repo
 	url = https://github.com/GitKrakenQA/100-tags-repo
